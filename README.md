@@ -1,3 +1,9 @@
+![Python versions](https://img.shields.io/pypi/pyversions/Django)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/surViVeCZ/Classification-Optimalization-Strategies?branch=main&label=Code%20Size&logo=GitHub&logoColor=ffffff&labelColor=282828&style=flat)](https://github.com/surViVeCZ/Classification-Optimalization-Strategies)
+[![GitHub License](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+
+
 # Master's Thesis: Optimization of Classification Models for Malicious Domain Detection
 
 **Author:** Bc. Petr Pouč  
