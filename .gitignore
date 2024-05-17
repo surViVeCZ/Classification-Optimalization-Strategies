@@ -22,7 +22,6 @@ filtered_domain_datafile.trapcap.*
 *.csv
 *.pickle
 *.json
-*.png
 *.zip
 *.pth
 *.log
